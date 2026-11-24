@@ -7,8 +7,7 @@ This project leverages the YOLOv8n (nano) object detection model to identify cra
 
 ## Folder Structure
 
-```
-SOI'25-Lunar_Crater_Detection:The MC's/
+```Lunar Crater Detection
 ├── Dataset/
 │   ├── train/
 │   │   ├── images/
